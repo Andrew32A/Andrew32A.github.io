@@ -1,5 +1,5 @@
 <h1>Hello world! 👋</h1>
-<img src="https://github.com/Andrew32A/Andrew32A.github.io/blob/main/media/github-intro-v2.gif?raw=true" align="center">
+<img src="https://github.com/Andrew32A/Andrew32A.github.io/blob/main/media/github-intro-v4.gif?raw=true" align="center">
 
 ```python
 class Me():
